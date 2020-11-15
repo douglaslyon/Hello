@@ -1,0 +1,20 @@
+{
+  "name": "Hello",
+  "keywords": "Hello, library, example",
+  "description": "An example to show how to deploy a library",
+  "authors":
+  [
+    {
+      "name": "Douglas Lyon",
+      "email": "lyon@docjava.com"
+    }
+  ],
+  "repository":
+  {
+      "type": "git",
+    "url": "https://github.com/douglaslyon/Hello"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "uno"
+}
